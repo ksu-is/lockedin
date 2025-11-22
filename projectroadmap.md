@@ -16,7 +16,8 @@
 - [x] Create CSS for Locked In
 - [x] Create Java Script to make application usable
 ## Sprint 3
-- [x] Expand on HTML    
-- [x] Expand on CSS
-- [x] Expand on Java Script
+- [] Expand on HTML    
+- [] Expand on CSS
+- [] Expand on Java Script
+
 
