@@ -10,7 +10,7 @@
 ## Sprint 2
 - [x] Begin Working on Main Code
 - [x] Make Code and Add Commit Messages to Repo
-- [ ] Make 6 or more Code Changes to Main Code
+- [x] Make 6 or more Code Changes to Main Code
 - [x] Update projectroadmap.md with Planned and Emerging Tasks
 - [x] Create Basic formation of application using HTML
 - [x] Create CSS for Locked In
@@ -19,3 +19,4 @@
 - [x] Expand on HTML    
 - [x] Expand on CSS
 - [x] Expand on Java Script
+
