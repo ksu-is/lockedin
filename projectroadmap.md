@@ -18,6 +18,7 @@
 ## Sprint 3
 - [] Expand on HTML    
 - [] Expand on CSS
-- [] Expand on Java Script
+- [] Created project marketing PowerPoint slide
+- [] Uploaded slide to GitHub for documentation
 
 
