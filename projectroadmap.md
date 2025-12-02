@@ -17,8 +17,9 @@
 - [x] Create Java Script to make application usable
 ## Sprint 3
 - [] Expand on HTML    
-- [] Expand on CSS
-- [] Created project marketing PowerPoint slide
-- [] Uploaded slide to GitHub for documentation
+- [x] Expand on CSS
+- [x] Created project marketing PowerPoint slide
+- [x] Uploaded slide to GitHub for documentation
+
 
 
