@@ -16,10 +16,11 @@
 - [x] Create CSS for Locked In
 - [x] Create Java Script to make application usable
 ## Sprint 3
-- [] Expand on HTML    
+- [x] Expand on HTML    
 - [x] Expand on CSS
 - [x] Created project marketing PowerPoint slide
 - [x] Uploaded slide to GitHub for documentation
+- [x] Made a more advanced Java Script for Program 
 
 
 
