@@ -13,6 +13,7 @@ let button = document.querySelector(".button")
 let currentTimer = null
 let myInterval = null
 
+// show the default timer
 function showDefaultTimer() {
     pomodoro.style.display = "block"
     short.style.display = "none"
@@ -63,6 +64,7 @@ longBreak.addEventListener("click", () => {
     currentTimer = long
 })
 
+// Start the timer on click
 function startTimer(timerDisplay) {
     if (myInterval) {
         clearInterval(myInterval);
@@ -110,3 +112,6 @@ stopBtn.addEventListener("click", () => {
         clearInterval(myInterval)
     }
 })
+    }
+})
+
